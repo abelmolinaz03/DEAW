@@ -1,0 +1,1 @@
+Repositorio correspondiente a la práctica 5.1 de Git y GitHub. En este proyecto se aplican los conceptos vistos en clase relacionados con el desarrollo web, buenas prácticas de programación y uso de control de versiones con Git.
