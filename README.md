@@ -1,1 +1,7 @@
-Repositorio correspondiente a la práctica 5.1 de Git y GitHub. En este proyecto se aplican los conceptos vistos en clase relacionados con el desarrollo web, buenas prácticas de programación y uso de control de versiones con Git.
+## Compañeros
+
+| NOMBRE                   | GITHUB                               |
+|--------------------------|------------------------------------- |
+| Carlos Ortiz Santiago    | https://github.com/CarlosOS-dev      |
+| Francisco Herrera Chacón | https://github.com/Fhercha24         |
+| Anabel Moreno Gómez      | https://github.com/anabelmorenogomez |
